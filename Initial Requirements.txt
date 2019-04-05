@@ -1,0 +1,27 @@
+GA Tech Project 1
+
+Initial Data Crawl:
+
+-Download datasets from baseball-reference.com (csv)
+-Commit and Push datasets to repository
+
+
+Sean:
+-2017 Batting
+
+Sruthi:
+
+-2017 Pitching
+Robert:
+
+-2016 Batting
+-2016 Pitching
+
+Adrian:
+-2018 Batting
+-2018 Pitching
+
+
+Considerations:
+-Post 2003 (steroid era)
+-Played at least 100 games
