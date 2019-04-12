@@ -1,4 +1,4 @@
-year, month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct, weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted, arr_delay, carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+year, month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct,weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted,arr_delay,carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
 2010,1,9E,Pinnacle Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",126,27,9.13,0,10.81,0,7.06,3,0,1603,731,0,335,0,537
 2010,1,AA,American Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",4988,711,162.66,26.9,341.27,1,179.17,164,8,35392,11260,1656,11677,37,10762
 2010,1,AS,Alaska Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",121,53,7.61,1.22,43.94,0,0.23,1,0,2192,427,70,1688,0,7
@@ -1265,16 +1265,3 @@ year, month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carr
 2018,12,OO,SkyWest Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",5467,1413,220.69,24.93,523.17,1,643.21,82,12,112703,42652,3675,20036,23,46317
 2018,12,UA,United Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",6303,1016,249.02,17.71,430.69,0,318.58,8,14,57088,18440,1233,12988,0,24427
 2018,12,YX,Republic Airline,ORD,"Chicago, IL: Chicago O'Hare International",1186,181,34.2,6.83,91.83,0,48.14,6,4,8864,2072,420,3517,0,2855
-2019,1,9E,Endeavor Air Inc.,ORD,"Chicago, IL: Chicago O'Hare International",149,44,5.58,0.69,23.59,0,14.13,15,0,4214,620,66,1954,0,1574
-2019,1,AA,American Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",5377,1170,188.73,41.45,635.01,2.63,302.18,464,28,92755,14139,4686,48418,68,25444
-2019,1,AS,Alaska Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",234,61,6.29,0,47.54,0,7.17,13,0,4187,629,0,3246,0,312
-2019,1,B6,JetBlue Airways,ORD,"Chicago, IL: Chicago O'Hare International",220,86,24.93,4.32,45.14,0.65,10.96,18,0,9613,3424,762,3974,15,1438
-2019,1,DL,Delta Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",855,210,37.05,16.66,122.91,0,33.37,45,3,27130,4007,4811,15010,0,3302
-2019,1,EV,ExpressJet Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",1376,368,51.74,7.53,179.98,0,128.76,316,5,38080,8169,3684,15207,0,11020
-2019,1,F9,Frontier Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",262,65,15.68,0,26.47,0,22.84,29,0,5137,1065,0,1463,0,2609
-2019,1,MQ,Envoy Air,ORD,"Chicago, IL: Chicago O'Hare International",5479,1277,194.93,61.88,444.07,0.71,575.42,815,7,87720,18205,6310,27725,25,35455
-2019,1,NK,Spirit Air Lines,ORD,"Chicago, IL: Chicago O'Hare International",734,169,30.03,9.67,102.04,0,27.26,34,0,19955,2417,4226,11015,0,2297
-2019,1,OH,PSA Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",140,16,6.98,0.34,5.67,0,3,22,0,721,234,11,339,0,137
-2019,1,OO,SkyWest Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",4631,1405,226.11,44.78,480.23,1.21,652.66,664,17,169437,47468,13011,43847,28,65083
-2019,1,UA,United Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",5477,1286,193.61,52.89,760.05,0,279.45,266,10,143440,19199,10386,83094,0,30761
-2019,1,YX,Republic Airline,ORD,"Chicago, IL: Chicago O'Hare International",1278,284,29.17,3.92,166.87,0,84.04,177,2,22539,2638,2904,9570,0,7427
