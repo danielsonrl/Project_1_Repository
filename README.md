@@ -10,6 +10,6 @@ ATL - Hartsfield-Jackson Atlanta International Airport (Atlanta, Georgia)
 The team will answer the following questions:
 1) What is the major cause of flight delays?
 2) Over the last decade, have airline issues improved?
-3) Which airline carrier has the most delays?
+3) Which airline carrier arrives on time the most often?
 4) Which airport has the most delays?
 5) What month of the year has the most delays?
