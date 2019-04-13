@@ -1,5 +1,5 @@
 # Project_1_Repository
-This is going to be the official repository for Project 1.
+This is our official repository for Project 1.
 Our project will showcase the historical trends of airline delays and their causes from January 2010 to December 2018. Arrival and departure flight datasets will be pulled for the following airports: 
 
 JFK - John F. Kennedy International Airport (New York City,New York)
